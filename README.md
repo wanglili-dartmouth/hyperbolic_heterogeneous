@@ -7,8 +7,11 @@ Same as https://github.com/wanglili-dartmouth/hyperbolic_struct
 ## Data
 
 We use the dataset provided by the author of HHNE (https://github.com/ydzhang-stormstout/HHNE)
+
 DBLP dataset is inside the "data" directory 
+
 Since MovieLens do not allow public redistribution, please contact the author of HHNE （zyd@bupt.edu.cn） if you are interested in this dataset.
+
 
 ## How to use
 
