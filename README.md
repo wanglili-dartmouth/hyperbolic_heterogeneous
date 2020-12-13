@@ -6,7 +6,7 @@ Same as https://github.com/wanglili-dartmouth/hyperbolic_struct
 
 ## Data
 
-We use the dataset provided by the author of HHNE (https://github.com/ydzhang-stormstout/HHNE)
+We use the dataset provided by the authors of HHNE (https://github.com/ydzhang-stormstout/HHNE)
 
 DBLP dataset is inside the "data" directory 
 
@@ -39,3 +39,16 @@ The individual python files above require certain parameters as input. Please us
 
 Our code is built on top of https://github.com/DavidMcDonald1993/heat
 
+## Citation
+
+@inproceedings{wang2021Embedd,
+ title={Embedding Heterogeneous Networks into Hyperbolic Space Without Meta-path},
+ author="Wang, Lili and
+Gao, Chongyang and
+Huang, Chenghan and
+Liu, Ruibo and
+Ma, Weicheng and
+Vosoughi, Soroush",
+ booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+ year={2021}
+}
