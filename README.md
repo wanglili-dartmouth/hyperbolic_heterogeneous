@@ -49,6 +49,6 @@ Huang, Chenghan and
 Liu, Ruibo and
 Ma, Weicheng and
 Vosoughi, Soroush",
- booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+ booktitle={AAAI},
  year={2021}
 }
