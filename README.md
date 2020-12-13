@@ -40,7 +40,7 @@ The individual python files above require certain parameters as input. Please us
 Our code is built on top of https://github.com/DavidMcDonald1993/heat
 
 ## Citation
-
+```
 @inproceedings{wang2021Embedd,
  title={Embedding Heterogeneous Networks into Hyperbolic Space Without Meta-path},
  author="Wang, Lili and
