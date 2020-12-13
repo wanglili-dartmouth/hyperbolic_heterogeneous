@@ -1,4 +1,4 @@
-# Hyperbolic Heterogeneous Network Embedding Without Meta-path
+# Embedding Heterogeneous Networks into Hyperbolic Space Without Meta-path
 
 
 ## Requirements:
