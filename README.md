@@ -41,14 +41,6 @@ Our code is built on top of https://github.com/DavidMcDonald1993/heat
 
 ## Citation
 ```
-@inproceedings{wang2021Embedd,
- title={Embedding Heterogeneous Networks into Hyperbolic Space Without Meta-path},
- author="Wang, Lili and
-Gao, Chongyang and
-Huang, Chenghan and
-Liu, Ruibo and
-Ma, Weicheng and
-Vosoughi, Soroush",
- booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
- year={2021}
-}
+@article{Wang_Gao_Huang_Liu_Ma_Vosoughi_2021, title={Embedding Heterogeneous Networks into Hyperbolic Space Without Meta-path}, volume={35}, number={11}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, author={Wang, Lili and Gao, Chongyang and Huang, Chenghan and Liu, Ruibo and Ma, Weicheng and Vosoughi, Soroush}, year={2021}, month={May}, pages={10147-10155} }
+
+
